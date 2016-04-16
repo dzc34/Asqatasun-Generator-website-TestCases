@@ -1,0 +1,24 @@
+# Build
+www
+tmp-build
+
+# software Netbeans
+nbproject
+nb-configuration.xml
+nbactions.xml
+
+# software Intellij
+.idea
+*.iml
+
+# saved files
+*~
+
+# Git - Merge temp file
+*.orig
+
+# git shortlog -s -n
+#  	file for map author and committer names and email addresses
+#  	to canonical real names and email addresses
+/.mailmap
+
